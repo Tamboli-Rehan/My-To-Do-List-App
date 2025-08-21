@@ -16,7 +16,8 @@
         "foregroundImage": "",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.rehan_tamboli.MyToDoListApp"
     },
     "web": {
       "bundler": "metro",
@@ -32,6 +33,11 @@
           "backgroundColor": "#ffffff"
         }
       ]
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "da5e2818-4620-4067-bb30-4128ad50ce1c"
+      }
+    }
   }
 }
