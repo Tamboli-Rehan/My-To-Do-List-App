@@ -19,8 +19,8 @@ A simple and modern **To-Do List App** built with **React Native** and **Expo** 
 
 <!-- Add your screenshots here -->
 
-![Home Screen](screenshots/home.png)
-![Add Task Screen](screenshots/add-task.png)
+![Home Screen](src/screenshots/HomePage.jpg)
+![Add Task Screen](src/screenshorts/AddToDO.jpg)
 
 ---
 
